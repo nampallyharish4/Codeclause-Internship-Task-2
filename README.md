@@ -18,8 +18,8 @@ This project provides a Graphical User Interface for Music player
 
 **Libraries used**
 * import tkinter
-* import random
-* import pyperclip
+* import filedialog
+* import mixer
 
 **Features**
 
